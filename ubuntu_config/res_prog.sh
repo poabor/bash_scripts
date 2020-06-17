@@ -21,9 +21,6 @@ sudo apt-get install -y git
 # python 3.6 - новый питон
 sudo apt-get install -y python3.8
 
-# cherry tree - создание собственной базы данных древовидной структуры
-sudo apt-get install -y cherrytree
-
 # pycharm community - IDE для Python, бесплатная версия из официального репозитория
 sudo umake ide pycharm
 
