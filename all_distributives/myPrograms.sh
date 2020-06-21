@@ -1,6 +1,7 @@
 #!/bin/bash
 # Скрип устанавливает/обновляет gramps
 sudo apt-get install gramps -y
+sudo apt-get install gir1.2-goocanvas-2.0 -y #для установки дополнения graph-view
 echo '> gramps установлен!'
 
 # Скрип устанавливает/обновляет resilio-sync
